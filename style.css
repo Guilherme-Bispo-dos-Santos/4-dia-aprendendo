@@ -3,7 +3,7 @@ body {
     font-size:  20px;
     font-family: sans-serif;
     margin: auto;
-    background-image: url(imagens/bg.jpg);
+    background-image: url(bg.jpg);
     background-attachment:fixed;
     background-position: right bottom;
     
