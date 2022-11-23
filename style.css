@@ -1,0 +1,112 @@
+body { 
+    width: 1250px;
+    font-size:  20px;
+    font-family: sans-serif;
+    margin: auto;
+    background-image: url(imagens/bg.jpg);
+    background-attachment:fixed;
+    background-position: right bottom;
+    
+
+
+     }
+
+H1{
+   text-align: center;
+   background-color: brown;
+   border-style:solid;
+
+
+  }
+
+H2{
+
+    text-align: center;
+    background-color: brown;
+    border-style:solid;
+ 
+
+
+  }
+
+  .titulo-imagem{
+    list-style:none;
+    display:flex ;justify-content: space-around;
+  }
+
+
+  .titulo-html{
+    font-size: 35px;
+    background-color: brown;
+    border-style:solid;
+    padding-left:25px;
+    padding-right: 25px;
+    
+    
+  }
+
+  .posicao-titulo-html{
+    list-style:none;
+    display:flex ;justify-content: space-around;
+
+
+  }
+
+
+  .titulo-css{ 
+    background-color:aqua;
+    border-style:solid;
+    font-size: 35px;
+    padding-left:25px;
+    padding-right: 25px;
+    
+  }
+
+  .posicao-titulo-css {
+    list-style:none;
+    display:flex ;justify-content: space-around;
+
+  }
+
+p {
+    line-height: 1.5;
+    text-indent: 50px;
+
+
+
+  }
+
+ .html{
+    float: left;
+
+  }
+
+  .css { 
+    float: right;
+
+  }
+
+
+  .botao-1{
+    padding: 10px 10px;
+    width: 50px;
+    color: #fff;
+    background-color: rgb(39, 107, 109);
+    border: 1px solid rgb(15, 15, 15);
+    border-radius: 5px;
+    text-align: center;
+    padding-right: 35px;
+    user-select:none;
+    cursor: pointer;
+    transition:background 1s;
+
+  }
+
+  .botao-1:hover{
+    background-color: rgb(7, 122, 230);
+    
+
+  }
+
+
+
